@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="marill.png">
-<SubTexture name="marrill idle0000" x="0" y="0" width="1200" height="994"/>
-</TextureAtlas>

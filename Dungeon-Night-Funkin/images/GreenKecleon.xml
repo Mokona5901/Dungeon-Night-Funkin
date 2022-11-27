@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GreenKecleon.png">
+<SubTexture name="GreenKecleon idle0000" x="0" y="0" width="111" height="117"/>
+<SubTexture name="GreenKecleon idle0001" x="0" y="121" width="81" height="117"/>
+</TextureAtlas>

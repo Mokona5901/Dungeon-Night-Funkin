@@ -1,7 +1,0 @@
-Too Slow/Triple Trouble Scares
-
-value 1:
-sonic
-STATIC
-sonicJUMPSCARE
-StaticLUL
