@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "GreenKecleon idle",
+			"indices": [],
+			"name": "green kecleon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GreenKecleon_assets",
+	"position": [
+		250,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-200,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

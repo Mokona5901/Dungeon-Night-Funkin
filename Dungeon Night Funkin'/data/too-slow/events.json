@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				84638.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				84888.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85138.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85388.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85638.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				85888.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				86138.888888889,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"Sonic.exe"
+					]
+				]
+			],
+			[
+				86972.2222222223,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129722.222222222,
+				[
+					[
+						"Play Animation",
+						"I AM GOD",
+						"Sonic.exe"
+					]
+				]
+			]
+		]
+	}
+}
