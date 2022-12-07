@@ -1,5 +1,5 @@
 # Dungeon-Night-Funkin
-FNF mod folder (so running in [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)) based on Pokémon Mystery Dungeon series (Onthe DS)
+Upcoming FNF mod folder (so running in [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)) based on Pokémon Mystery Dungeon series (On the DS)
 
 V1 in Progress
 
